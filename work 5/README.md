@@ -4,5 +4,5 @@
 ## Advanced
 ![screenshot2.png](./screenshot2.png)
 ### Посилання
-[Medium](https://www.figma.com/design/MlNA9rrZd4Gz89AhWb0qeX/Medium?node-id=0-1&t=EkxyYotQrUUYJJdP-1)
-[Advanced](https://www.figma.com/design/s8NqYOK94r5aNy1DY8MCDs/advanced?node-id=0-1&t=qFbtkpne6jHTUa7d-1)
+[Medium](https://www.figma.com/design/Eusj5KJbQILk7QS1c5Ghrs/Untitled?t=UKPwa41RkdK8L2eJ-0)
+[Advanced](https://www.figma.com/design/6HGEoWI8TZ91h7jURlJuBA/Untitled?t=UKPwa41RkdK8L2eJ-0)
